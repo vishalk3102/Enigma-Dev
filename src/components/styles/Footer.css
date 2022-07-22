@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish&display=swap");
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+footer {
+  /* border: 2px solid red; */
+  background-color: #333333 !important;
+  color: #fff;
+}
+.container {
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer-box {
+  /* border: 2px solid red; */
+  width: 300px;
+  height: 200px;
+  margin: 0 2rem;
+}
+.footer-box h6 {
+  /* border: 2px solid red; */
+  font-size: 1.1rem;
+  font-weight: bold;
+  text-transform: uppercase !important;
+  color: #fff;
+}
+.footer-box ul {
+  /* border: 2px solid red; */
+  font-size: 0.9rem;
+  text-transform: capitalize !important;
+}
+/* .footer-box ul li {
+  border: 2px solid black;
+} */
+.footer-box ul li a {
+  color: #fff !important;
+}
+.footer-box p {
+  color: #fff;
+}
+
+.footer-icon-box {
+  /* border: 2px solid red !important; */
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+.footer-icon-box li {
+  margin: 3px 6px !important;
+}
+
+.twitter-icon {
+  color: blue;
+  height: 40px;
+  width: 40px;
+}
+.facebook-icon {
+  color: blue;
+  height: 40px;
+  width: 40px;
+}
+.youtube-icon {
+  color: #ff0000;
+  height: 40px;
+  width: 40px;
+}
+.instagram-icon {
+  color: #e1306c;
+  height: 40px;
+  width: 40px;
+}
+.footer-text {
+  color: #fff !important;
+}

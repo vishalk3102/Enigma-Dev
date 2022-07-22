@@ -1,0 +1,4 @@
+#0D2BEF-blue
+#333333 -gray
+#0E29F2 -blue
+#06130A -black

@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish&display=swap");
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+.testimonial-section {
+  /* border: 2px solid red; */
+  margin-top: 4rem;
+  width: 100%;
+}
+
+.heading-text h1 {
+  /* border: 2px solid black; */
+  text-align: center;
+  font-weight: bolder;
+  font-size: 3rem;
+  color: #000;
+}
+.testimonial-card {
+  /* border: 1px solid #0e29f2; */
+  height: 200px;
+  width: 500px;
+}
+
+.text {
+  /* border: 2px solid black; */
+  margin-left: 1rem;
+  padding: 5px 0px 5px 10px;
+}
+.testimonial-card p {
+  font-size: 1.1rem;
+  /* border: 2px solid red; */
+}
+.testimonial-card span {
+  /* border: 2px solid red; */
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: #0e29f2;
+}
+.testimonial-img-box {
+  /* border: 2px solid black; */
+  height: 110px;
+  width: 110px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.testimonial-img-box img {
+  border: 10px solid #0e29f2;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
